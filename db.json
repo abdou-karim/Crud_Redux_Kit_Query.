@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sadio",
+      "lastName": "Mane",
+      "email": "sadioMane@gmail.com",
+      "adresse": "Bambaly",
+      "country": "Senegal"
+    },
+    {
+      "id": 2,
+      "name": "Mohamet",
+      "lastName": "Sallah",
+      "email": "mohametSallah@gmail.com",
+      "adresse": "caire",
+      "country": "Egypte"
+    },
+    {
+      "id": 3,
+      "name": "Kalidou",
+      "lastName": "Coulibaly",
+      "email": "kalidouKoulibaly@gmail.com",
+      "adresse": "tamba",
+      "country": "Senegal"
+    },
+    {
+      "id": 4,
+      "name": "Edouard",
+      "lastName": "Mendy",
+      "email": "edouard@gmail.com",
+      "adresse": "kolda",
+      "country": "France"
+    },
+    {
+      "id": 5,
+      "name": "Ismail",
+      "lastName": "Sarr",
+      "email": "ismail@gmail.com",
+      "adresse": "Pikine",
+      "country": "Senegal"
+    },
+    {
+      "id": 6,
+      "name": "Cheikh",
+      "lastName": "Kouyate",
+      "email": "cheikh@gmail.com",
+      "adresse": "Dakar",
+      "country": "France"
+    },
+    {
+      "id": 7,
+      "name": "Habib",
+      "lastName": "Diallo",
+      "email": "habib@gmail.com",
+      "adresse": "metz",
+      "country": "Senegal"
+    },
+    {
+      "id": 8,
+      "name": "Saliou",
+      "lastName": "Ciss",
+      "email": "saliou@gmail.com",
+      "adresse": "Rufsique",
+      "country": "Senegal"
+    },
+    {
+      "id": 9,
+      "name": "Famara",
+      "lastName": "Dediou",
+      "email": "famara@gmail.com",
+      "adresse": "Sediou",
+      "country": "France"
+    },
+    {
+      "id": 10,
+      "name": "Idrissa",
+      "lastName": "Gueye",
+      "email": "idrissa@gmail.com",
+      "adresse": "Parcelle",
+      "country": "Senegal"
+    },
+    {
+      "id": 11,
+      "name": "Boulaye",
+      "lastName": "Dia",
+      "email": "boulaye@gmail.com",
+      "adresse": "touba",
+      "country": "France"
+    },
+    {
+      "id": 12,
+      "name": "Pape",
+      "lastName": "Gueye",
+      "email": "pape@gmail.com",
+      "adresse": "Rufisque",
+      "country": "Senegal"
+    }
+  ]
+}
